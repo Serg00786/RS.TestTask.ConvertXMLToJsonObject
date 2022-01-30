@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS.TestTask.ConvertXMLToJsonObject", "RS.TestTask.ConvertXMLToJsonObject.csproj", "{969CAACE-27A5-424F-8E08-C5F86D75F52D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{969CAACE-27A5-424F-8E08-C5F86D75F52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969CAACE-27A5-424F-8E08-C5F86D75F52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969CAACE-27A5-424F-8E08-C5F86D75F52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969CAACE-27A5-424F-8E08-C5F86D75F52D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3459ABE9-FBC7-436C-9382-4A38C2335AFE}
+	EndGlobalSection
+EndGlobal
